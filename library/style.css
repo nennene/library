@@ -1,0 +1,8 @@
+body {
+    background-color: azure;
+    margin: 0;
+    box-sizing: border-box;
+}
+form {
+    background-color: rgb(202, 241, 252);
+}
